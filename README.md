@@ -1,16 +1,12 @@
-## Hi there 👋
+I'm a BSIT student at the University of Mindanao with a growing interest in software development and programming. I'm currently building my skills through learn
 
-<!--
-**PjAgon/PjAgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+- 🎓 BSIT Student at the University of Mindanao
+- 🌱 Currently learning Software Development and Programming
+- 💻 Interested in Web Development
+- 📚 Always learning and building new projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+- Build useful projects
+- Improve my coding skills
+- Contribute to open-source projects
